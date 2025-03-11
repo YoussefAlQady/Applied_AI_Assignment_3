@@ -1,0 +1,7 @@
+openai
+os
+dotenv
+requests
+re
+json
+collections
